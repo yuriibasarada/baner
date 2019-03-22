@@ -1,0 +1,6 @@
+{
+    "require": {
+        "intervention/image": "^2.4",
+        "calcinai/php-imagick": "^0.1.2"
+    }
+}
